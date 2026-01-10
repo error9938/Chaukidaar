@@ -42,8 +42,7 @@ Alert / Repelling Mechanism
 - **Language:** Python
 - **Libraries:** OpenCV, NumPy
 - **AI Model:** YOLOv8
-- **Hardware:** USB Webcam, Arduino (optional)
-- **Others:** Docker (optional)
+- **Hardware:** Webcam
 
 ---
 
