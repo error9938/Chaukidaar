@@ -1,0 +1,28 @@
+
+---
+
+## ▶️ How to Run
+1. Install dependencies  
+   `pip install -r requirements.txt`
+2. Connect USB webcam
+3. Run the detection script  
+   `python chaukidaar.py`
+
+---
+
+## 🚀 Future Scope
+- Android application integration
+- SMS / mobile alerts
+- More animal classes
+- Cloud-based monitoring
+
+---
+
+## 👨‍💻 Author
+**Lalatendu**  
+Final Year Engineering Project – AI + Agriculture
+
+---
+
+## 📄 License
+Academic and learning purpose only.
